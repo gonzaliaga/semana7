@@ -9,7 +9,7 @@ console.log (`Soy un animal llamado ${this.nombre} y tengo ${this.edad} años.`)
     }
 }
 
-//Clase Perro que hereda de Animal rueba de gitbub
+//Clase Perro que hereda de Animal ya se probó
 class Perro extends Animal {
     constructor (nombre, edad, raza) {
         super (nombre, edad); //llama al constructor de la clase padre
